@@ -21,10 +21,10 @@ taxonomies:
       name: Discover Life Taxonomy
 #    - id: batnames
 #      name: Bat Names 
-#    - id: col
+    - id: col
       name: Catalogue of Life
     - id: gbif
-#      name: GBIF Backbone Taxonomy
+      name: GBIF Backbone Taxonomy
 #    - id: globi
 #      name: GloBI Taxon Graph
 #    - id: indexfungorum
