@@ -17,8 +17,8 @@ taxonomies:
       name: Integrated Taxonomic Information System
     - id: ncbi
       name: NCBI Taxonomy
-    - id: discoverlife
-      name: Discover Life Taxonomy
+#    - id: discoverlife
+#      name: Discover Life Taxonomy
 #    - id: batnames
 #      name: Bat Names 
     - id: col
