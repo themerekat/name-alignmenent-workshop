@@ -22,8 +22,8 @@ taxonomies:
 #    - id: batnames
 #      name: Bat Names 
 #    - id: col
-#      name: Catalogue of Life
-#    - id: gbif
+      name: Catalogue of Life
+    - id: gbif
 #      name: GBIF Backbone Taxonomy
 #    - id: globi
 #      name: GloBI Taxon Graph
